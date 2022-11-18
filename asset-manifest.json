@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/texvalley/static/css/main.ff56685c.css",
-    "main.js": "/texvalley/static/js/main.e34a178a.js",
+    "main.js": "/texvalley/static/js/main.30d43d34.js",
     "static/media/img5.png": "/texvalley/static/media/img5.b49cba790dc5a046c9cb.png",
     "static/media/img4.png": "/texvalley/static/media/img4.739b680de716fd3f47ec.png",
     "static/media/img1.png": "/texvalley/static/media/img1.d3abd8ae5ad7f31a978d.png",
@@ -23,10 +23,10 @@
     "static/media/slick.woff": "/texvalley/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/texvalley/index.html",
     "main.ff56685c.css.map": "/texvalley/static/css/main.ff56685c.css.map",
-    "main.e34a178a.js.map": "/texvalley/static/js/main.e34a178a.js.map"
+    "main.30d43d34.js.map": "/texvalley/static/js/main.30d43d34.js.map"
   },
   "entrypoints": [
     "static/css/main.ff56685c.css",
-    "static/js/main.e34a178a.js"
+    "static/js/main.30d43d34.js"
   ]
 }
