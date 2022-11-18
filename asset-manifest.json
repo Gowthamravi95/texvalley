@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Gowthamravi95/texvalley.git/static/css/main.c0d16dc6.css",
+    "main.js": "/Gowthamravi95/texvalley.git/static/js/main.6f94d452.js",
+    "static/media/img5.png": "/Gowthamravi95/texvalley.git/static/media/img5.b49cba790dc5a046c9cb.png",
+    "static/media/img4.png": "/Gowthamravi95/texvalley.git/static/media/img4.739b680de716fd3f47ec.png",
+    "static/media/img1.png": "/Gowthamravi95/texvalley.git/static/media/img1.d3abd8ae5ad7f31a978d.png",
+    "static/media/ban2.webp": "/Gowthamravi95/texvalley.git/static/media/ban2.35a5f1d43bfab56d2a52.webp",
+    "static/media/img3.png": "/Gowthamravi95/texvalley.git/static/media/img3.b86e9fe5b24866b11ec4.png",
+    "static/media/ban3.webp": "/Gowthamravi95/texvalley.git/static/media/ban3.8c4c2380a4465b4df643.webp",
+    "static/media/ban7.webp": "/Gowthamravi95/texvalley.git/static/media/ban7.7358eef4b28db4d3ba29.webp",
+    "static/media/ban5.webp": "/Gowthamravi95/texvalley.git/static/media/ban5.e37ae20dbc141b5a4954.webp",
+    "static/media/img1a.webp": "/Gowthamravi95/texvalley.git/static/media/img1a.253d9c00091eccecf880.webp",
+    "static/media/ban4.webp": "/Gowthamravi95/texvalley.git/static/media/ban4.d9ffe3c74f7201437cd2.webp",
+    "static/media/ban6.webp": "/Gowthamravi95/texvalley.git/static/media/ban6.859a26e8a133418b8758.webp",
+    "static/media/img2.png": "/Gowthamravi95/texvalley.git/static/media/img2.ea9d02f17070092f5c8c.png",
+    "static/media/ban1.webp": "/Gowthamravi95/texvalley.git/static/media/ban1.c539914eb786dffb2d38.webp",
+    "static/media/img6.jpg": "/Gowthamravi95/texvalley.git/static/media/img6.596fd8232890c77490cc.jpg",
+    "static/media/img1.webp": "/Gowthamravi95/texvalley.git/static/media/img1.0fd07ad213313a9faccc.webp",
+    "static/media/slick.svg": "/Gowthamravi95/texvalley.git/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Gowthamravi95/texvalley.git/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Gowthamravi95/texvalley.git/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Gowthamravi95/texvalley.git/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Gowthamravi95/texvalley.git/index.html",
+    "main.c0d16dc6.css.map": "/Gowthamravi95/texvalley.git/static/css/main.c0d16dc6.css.map",
+    "main.6f94d452.js.map": "/Gowthamravi95/texvalley.git/static/js/main.6f94d452.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0d16dc6.css",
+    "static/js/main.6f94d452.js"
+  ]
+}
